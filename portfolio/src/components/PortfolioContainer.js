@@ -2,8 +2,9 @@ import React, { useState } from 'react';
 import NavTabs from './NavTabs';
 import Home from './pages/Home';
 import About from './pages/About';
-import Blog from './pages/Blog';
+import Portfolio from './pages/Portfolio';
 import Contact from './pages/Contact';
+import Resume from './pages/Resume'
 
 export default function PortfolioContainer() {
   const [currentPage, setCurrentPage] = useState('Home');
@@ -13,11 +14,14 @@ export default function PortfolioContainer() {
     if (currentPage === 'Home') {
       return <Home />;
     }
-    if (currentPage === 'About') {
+    if (currentPage === 'About Me') {
       return <About />;
     }
-    if (currentPage === 'Blog') {
-      return <Blog />;
+    if (currentPage === 'Portfolio') {
+      return <Portfolio />;
+    }
+    if (currentPage === 'Resume') {
+      return <Resume />;
     }
     return <Contact />;
   };
