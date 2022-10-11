@@ -16,7 +16,7 @@ const App = () => {
       if (currentPage === 'Home') {
         return <Home />;
       }
-      if (currentPage === 'About Me') {
+      if (currentPage === 'About') {
         return <About />;
       }
       if (currentPage === 'Portfolio') {
