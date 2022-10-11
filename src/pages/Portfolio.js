@@ -2,17 +2,17 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Button from 'react-bootstrap/Button';
-import img1 from '../Assets/whatsfordinner.png'
+import whatsForDinner from '../Assets/whatsfordinner.png'
 
 export default function Portfolio() {
 
   const projectArray = [
     {
       title: 'Whats for dinner',
-      description: "This application will generate a random food and a random cocktail from two different API's",
+      description: "This application was created to generate a random food and a random cocktail from two different API's",
       repo: 'https://github.com/jordanheidlage/whatsForDinner',
       deploy: 'https://jordanheidlage.github.io/whatsForDinner/',
-      image: img1
+      image: whatsForDinner
     },
     {
       title: '',

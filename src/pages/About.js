@@ -16,7 +16,7 @@ export default function About() {
       </Row>
       <Row className="m-2">
         <Col md={8}>
-          <p>Full-Stack web developer leveraging 7+ years in leadership, supply chain, and operations management experience, as well as a 2017 graduate of Miami University, obtaining a B.A. in Biology, and a minor in Anthropology. Recent graduate of The Ohio State University Full Stack Web Development Bootcamp with a newly developed skill base in: Javascript, CSS, React.js, and Database Management (SQL/NoSQL/MongoDB). A demonstrated background in continued process improvement, data analysis, root-cause problem solving, and team-building. Passionate to continue to implement these skills in web development to drive an agile, and cohesive team to produce a world-class product for the client. My client-facing target for each project is to create the most efficient, and value added application for our user to enjoy, while also driving a sustainable roadmap with our teams to ensure effective delegation, and group collaboration.</p>
+          <p>Jordan Heidlage is a 29 year old career Operations Manager, with years of supply chain industry experience from working in multiple fortune 500 companies. Jordan currently resides in Cincinnati, Ohio with his fiance, and Golden Retriever, Kevin.</p>
         </Col>
         <Col md={4}>
           <img src={image} width={100} className="brand-image" />
