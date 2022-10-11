@@ -3,6 +3,7 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Button from 'react-bootstrap/Button';
 import whatsForDinner from '../Assets/whatsfordinner.png'
+import socialNetworkAPI from '../Assets/socialnetwork.png'
 
 export default function Portfolio() {
 
@@ -15,11 +16,11 @@ export default function Portfolio() {
       image: whatsForDinner
     },
     {
-      title: '',
-      description: '',
-      repo: '',
-      deploy: '',
-      image: ''
+      title: 'Social Network API - MongoDB ',
+      description: 'This application was created to utilize MongoDB database management, and Insomnia to test the correct functionality of API routes',
+      repo: 'https://github.com/jordanheidlage/social_network_API_jheidlage',
+      deploy: 'https://drive.google.com/file/d/1UaWeDR4srUhVB8_5MJwDURKwLGEqeQtO/view',
+      image: socialNetworkAPI
     },
     {
       title: '',

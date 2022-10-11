@@ -1,4 +1,5 @@
 import image from "../Assets/portfoliopic.png";
+import image1 from "../Assets/family.JPG"
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
@@ -16,15 +17,15 @@ export default function About() {
       </Row>
       <Row className="m-2">
         <Col md={8}>
-          <p>Jordan Heidlage is a 29 year old career Operations Manager, with years of supply chain industry experience from working in multiple fortune 500 companies. Jordan currently resides in Cincinnati, Ohio with his fiance, and Golden Retriever, Kevin.</p>
+          <p>Jordan Heidlage is a 29 year old career Operations Manager, with years of supply chain industry experience from working in multiple fortune 500 companies. Jordan currently resides in Cincinnati, Ohio with his fiance, Rachel, and Golden Retriever, Kevin. Jordan was born, and raised in Ross, Ohio, just shortly outside of Cincinnati. In grade school, Jordan distinguished himself as a local spelling bee champion, as well as an active competitor in local skateboard competitions, while maintaining several part time jobs. In college, Jordan attended Harding University in Searcy, Arkansas his freshman year where he played Lacrosse. Jordan later transferred to Miami University (Oh), where he obtained a B.A. in Biology, and a minor in Anthropology, while also maintaining a full time leadership position at the campus recreational center. Upon graduation, Jordan completed a Management Training Program with Kohl's Department Stores, Inc, where he discovered his passion for data analytics, and UI. Jordan spent 2 years as an Operations/HR Manager within the Kohl's Corporation, before accepting a role as an Operations Manager with Amazon.com LLC in Hebron, Kentucky to continue to challenge his skills in data analytics, and leadership. In his free time, Jordan loves taking Kevin on hikes, skateboarding, lifting weights, long bikes rides, home improvement projects, and spending time with loved ones. </p>
         </Col>
         <Col md={4}>
-          <img src={image} width={100} className="brand-image" />
+          <img src={image1} width={100} className="brand-image" />
         </Col>
       </Row>
       <Row className="m-3">
         <Col>
-          <p>Skillz I know:</p>
+          <p>Skills:</p>
           <Row>
             <Col md={2}>
               <img src={image} width={50} />
@@ -39,14 +40,5 @@ export default function About() {
         </Col>
       </Row>
     </Container>
-
-    // <Stack gap={2} className="col-md-5 mx-auto">
-    //   <div className="bg-light border mx-auto d-block">
-    //     <img src={image} width={100} />
-    //   </div>
-    //   {/* <div className="bg-light border mx-auto d-block"> */}
-    //   {/* </div> */}
-    //   <div className="bg-light border">Third item</div>
-    // </Stack>
   );
 }
