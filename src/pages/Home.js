@@ -1,5 +1,4 @@
 import React from 'react';
-import headshot from "../Assets/headshot.png"
 
 export default function Home() {
   return (
