@@ -8,6 +8,9 @@ import mongoBadge from "../Assets/mongodbbadge.png"
 import nodeBadge from "../Assets/nodeBadge.png"
 import OOPBadge from "../Assets/oopBadge.jpeg"
 import sqlBadge from "../Assets/sqlbadge.webp"
+import reactBadge from "../Assets/reactbadge.png"
+import jsbadge from "../Assets/js.jpeg"
+import karate from "../Assets/karate.jpeg"
 
 
 import Container from 'react-bootstrap/Container';
@@ -62,13 +65,13 @@ export default function About() {
               <img src={sqlBadge} width={50} />
             </Col>
             <Col md={1}>
-              <img src={image} width={50} />
+              <img src={reactBadge} width={50} />
             </Col>
             <Col md={1}>
-              <img src={image} width={50} />
+              <img src={jsbadge} width={50} />
             </Col>
             <Col md={1}>
-              <img src={image} width={50} />
+              <img src={karate} width={50} />
             </Col>
 
           </Row>
