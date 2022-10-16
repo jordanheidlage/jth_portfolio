@@ -1,16 +1,16 @@
-import image from "../Assets/portfoliopic.png";
+import image from "../Assets/portfolioPic.jpg"
 import image1 from "../Assets/family.JPG"
 import bstrapImage from "../Assets/bootstrapbadge.png"
 import expressImage from "../Assets/expressbadge.png"
 import htmlImage from "../Assets/htmlbadge.png"
 import mernBadge from "../Assets/MERNbadge.png"
-import mongoBadge from "../Assets/mongodbbadge.png"
-import nodeBadge from "../Assets/nodeBadge.png"
+import CI from "../Assets/continuous improvement.webp"
 import OOPBadge from "../Assets/oopBadge.jpeg"
 import sqlBadge from "../Assets/sqlbadge.webp"
 import reactBadge from "../Assets/reactbadge.png"
 import jsbadge from "../Assets/js.jpeg"
-import karate from "../Assets/karate.jpeg"
+import figmaBadge from "../Assets/figma.png"
+import MVCBadge from "../Assets/MVC3.png"
 
 
 import Container from 'react-bootstrap/Container';
@@ -53,10 +53,10 @@ export default function About() {
               <img src={mernBadge} width={50} />
             </Col>
             <Col md={1}>
-              <img src={mongoBadge} width={50} />
+              <img src={CI} width={50} />
             </Col>
             <Col md={1}>
-              <img src={nodeBadge} width={50} />
+              <img src={figmaBadge} width={50} />
             </Col>
             <Col md={1}>
               <img src={OOPBadge} width={50} />
@@ -71,7 +71,7 @@ export default function About() {
               <img src={jsbadge} width={50} />
             </Col>
             <Col md={1}>
-              <img src={karate} width={50} />
+              <img src={MVCBadge} width={50} />
             </Col>
 
           </Row>

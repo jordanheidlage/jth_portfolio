@@ -4,6 +4,8 @@ import Col from 'react-bootstrap/Col';
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
 // hook to make form responsive
+
+
 import { useForm } from 'react-hook-form';
 
 // function App() {
@@ -32,14 +34,14 @@ export default function Contact() {
           <Form>
             <Form.Group className="mb-3" controlId="formBasicEmail">
               <Form.Label>Email address</Form.Label>
-              <Form.Control type="email" placeholder="Enter email" />
+              <Form.Control required type="email" placeholder="Enter email" />
               <Form.Text className="text-muted">
                 We'll never share your email with anyone else.
               </Form.Text>
             </Form.Group>
             <Form.Group className="mb-3" controlId="formBasicEmail">
               <Form.Label>Full name</Form.Label>
-              <Form.Control type="text" placeholder="Full name" />
+              <Form.Control required type="text" placeholder="Full name" />
               <Form.Text className="text-muted">
                 name form text element
               </Form.Text>
