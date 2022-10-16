@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/jheidlage_react_portfolio/static/css/main.59539cc2.css",
+    "main.js": "/jheidlage_react_portfolio/static/js/main.d8f6e6ec.js",
+    "static/media/whatsfordinner.png": "/jheidlage_react_portfolio/static/media/whatsfordinner.1e98ef3bd9619cba9d25.png",
+    "static/media/family.JPG": "/jheidlage_react_portfolio/static/media/family.ebf9c117e75ac6f37205.JPG",
+    "static/media/socialnetwork.png": "/jheidlage_react_portfolio/static/media/socialnetwork.b42cc60645f1513b2b3d.png",
+    "static/media/employeetracker.png": "/jheidlage_react_portfolio/static/media/employeetracker.2061324f55b388421c33.png",
+    "static/media/portfoliopic.png": "/jheidlage_react_portfolio/static/media/portfoliopic.0045f822da771d9cacc4.png",
+    "static/media/MERNbadge.png": "/jheidlage_react_portfolio/static/media/MERNbadge.39d4f78651cc4a93b96f.png",
+    "static/media/weather.png": "/jheidlage_react_portfolio/static/media/weather.249417cc2278685b07ea.png",
+    "static/media/writersblock.png": "/jheidlage_react_portfolio/static/media/writersblock.143cbd4beefde974ab8c.png",
+    "static/media/jate.png": "/jheidlage_react_portfolio/static/media/jate.ef53732a8cff086a58c3.png",
+    "static/media/reactbadge.png": "/jheidlage_react_portfolio/static/media/reactbadge.3a41b18ce046a16c9d46.png",
+    "static/media/bootstrapbadge.png": "/jheidlage_react_portfolio/static/media/bootstrapbadge.f132cb791703420e69ca.png",
+    "static/media/oopBadge.jpeg": "/jheidlage_react_portfolio/static/media/oopBadge.0ea3c19d75f00ce9f9a4.jpeg",
+    "static/media/nodeBadge.png": "/jheidlage_react_portfolio/static/media/nodeBadge.f247532734b2ca16aee0.png",
+    "static/media/expressbadge.png": "/jheidlage_react_portfolio/static/media/expressbadge.b44f5a4b0ab040328aac.png",
+    "static/media/sqlbadge.webp": "/jheidlage_react_portfolio/static/media/sqlbadge.2570495ce652d16d72f9.webp",
+    "index.html": "/jheidlage_react_portfolio/index.html",
+    "main.59539cc2.css.map": "/jheidlage_react_portfolio/static/css/main.59539cc2.css.map",
+    "main.d8f6e6ec.js.map": "/jheidlage_react_portfolio/static/js/main.d8f6e6ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59539cc2.css",
+    "static/js/main.d8f6e6ec.js"
+  ]
+}
