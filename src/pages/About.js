@@ -1,4 +1,4 @@
-import image from "../Assets/portfolioPic.jpg"
+import image2 from "../Assets/portfolioPic.jpg"
 import image1 from "../Assets/family.JPG"
 import bstrapImage from "../Assets/bootstrapbadge.png"
 import expressImage from "../Assets/expressbadge.png"
@@ -11,6 +11,7 @@ import reactBadge from "../Assets/reactbadge.png"
 import jsbadge from "../Assets/js.jpeg"
 import figmaBadge from "../Assets/figma.png"
 import MVCBadge from "../Assets/MVC3.png"
+import Image from 'react-bootstrap/Image'
 
 
 import Container from 'react-bootstrap/Container';
@@ -22,7 +23,7 @@ export default function About() {
     <Container fluid>
       <Row className="text-light m-2">
         <Col md={4}>
-          <img src={image} width={100} className="brand-image" />
+          <img src={image2} width={100} className="brand-image" />
         </Col>
         <Col md={8}>
           <p>Full-Stack web developer leveraging 7+ years in leadership, supply chain, and operations management experience, as well as a 2017 graduate of Miami University, obtaining a B.A. in Biology, and a minor in Anthropology. Recent graduate of The Ohio State University Full Stack Web Development Bootcamp with a newly developed skill base in: Javascript, CSS, React.js, and Database Management (SQL/NoSQL/MongoDB). A demonstrated background in continued process improvement, data analysis, root-cause problem solving, and team-building. Passionate to continue to implement these skills in web development to drive an agile, and cohesive team to produce a world-class product for the client. My client-facing target for each project is to create the most efficient, and value added application for our user to enjoy, while also driving a sustainable roadmap with our teams to ensure effective delegation, and group collaboration.</p>
