@@ -11,14 +11,14 @@ export default function Contact() {
       <Row>
         <Col>
           <Form>
-            <Form.Group className="mb-3" controlId="formBasicEmail">
+            <Form.Group className="text-light mb-3" controlId="formBasicEmail">
               <Form.Label>Email address</Form.Label>
               <Form.Control required type="email" placeholder="Enter email" />
               <Form.Text className="text-muted">
                 We'll never share your email with anyone else.
               </Form.Text>
             </Form.Group>
-            <Form.Group className="mb-3" controlId="formBasicEmail">
+            <Form.Group className="text-light mb-3" controlId="formBasicEmail">
               <Form.Label>Full name</Form.Label>
               <Form.Control required type="text" placeholder="Full name" />
               <Form.Text className="text-muted">
@@ -26,7 +26,7 @@ export default function Contact() {
               </Form.Text>
             </Form.Group>
 
-            <Form.Group className="mb-3" controlId="formBasicPassword">
+            <Form.Group className="text-light mb-3" controlId="formBasicPassword">
               <Form.Label>Message</Form.Label>
               <Form.Control as="textarea" rows={3} placeholder="What do you want" />
             </Form.Group>

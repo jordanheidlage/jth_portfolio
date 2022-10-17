@@ -67,7 +67,7 @@ export default function Portfolio() {
   return (
     <Container fluid>
       {projectArray.map((item)=>(
-        <Row className='m-2' >
+        <Row className='text-light m-2' >
         <Col md={6}>
           <div >
             <h3>{item.title}</h3>
