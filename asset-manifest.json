@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jheidlage_react_portfolio/static/css/main.59539cc2.css",
-    "main.js": "/jheidlage_react_portfolio/static/js/main.ac5b5ff1.js",
+    "main.css": "/jheidlage_react_portfolio/static/css/main.b733b744.css",
+    "main.js": "/jheidlage_react_portfolio/static/js/main.1d853251.js",
     "static/media/whatsfordinner.png": "/jheidlage_react_portfolio/static/media/whatsfordinner.1e98ef3bd9619cba9d25.png",
     "static/media/family.JPG": "/jheidlage_react_portfolio/static/media/family.ebf9c117e75ac6f37205.JPG",
     "static/media/portfolioPic.jpg": "/jheidlage_react_portfolio/static/media/portfolioPic.26e1714313515100e7f3.jpg",
@@ -13,17 +13,20 @@
     "static/media/writersblock.png": "/jheidlage_react_portfolio/static/media/writersblock.143cbd4beefde974ab8c.png",
     "static/media/jate.png": "/jheidlage_react_portfolio/static/media/jate.ef53732a8cff086a58c3.png",
     "static/media/reactbadge.png": "/jheidlage_react_portfolio/static/media/reactbadge.3a41b18ce046a16c9d46.png",
+    "static/media/gmailLogo.webp": "/jheidlage_react_portfolio/static/media/gmailLogo.5c367636d000d57ee1d5.webp",
     "static/media/bootstrapbadge.png": "/jheidlage_react_portfolio/static/media/bootstrapbadge.f132cb791703420e69ca.png",
+    "static/media/linkedin.png": "/jheidlage_react_portfolio/static/media/linkedin.47cac209af1b3ec1c28c.png",
     "static/media/oopBadge.jpeg": "/jheidlage_react_portfolio/static/media/oopBadge.0ea3c19d75f00ce9f9a4.jpeg",
+    "static/media/facebookLogo.png": "/jheidlage_react_portfolio/static/media/facebookLogo.7b3d740457c434b43b54.png",
     "static/media/continuous improvement.webp": "/jheidlage_react_portfolio/static/media/continuous improvement.410ed583186a49fb1718.webp",
     "static/media/expressbadge.png": "/jheidlage_react_portfolio/static/media/expressbadge.b44f5a4b0ab040328aac.png",
     "static/media/sqlbadge.webp": "/jheidlage_react_portfolio/static/media/sqlbadge.2570495ce652d16d72f9.webp",
     "index.html": "/jheidlage_react_portfolio/index.html",
-    "main.59539cc2.css.map": "/jheidlage_react_portfolio/static/css/main.59539cc2.css.map",
-    "main.ac5b5ff1.js.map": "/jheidlage_react_portfolio/static/js/main.ac5b5ff1.js.map"
+    "main.b733b744.css.map": "/jheidlage_react_portfolio/static/css/main.b733b744.css.map",
+    "main.1d853251.js.map": "/jheidlage_react_portfolio/static/js/main.1d853251.js.map"
   },
   "entrypoints": [
-    "static/css/main.59539cc2.css",
-    "static/js/main.ac5b5ff1.js"
+    "static/css/main.b733b744.css",
+    "static/js/main.1d853251.js"
   ]
 }
