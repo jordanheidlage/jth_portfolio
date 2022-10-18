@@ -17,12 +17,14 @@ header {
 
 footer {
   margin: 0;
+  bottom: 0;
   font-family: "Raleway", serif !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-image: linear-gradient(to left, rgb(112, 96, 144), rgb(20 15 35)); 
- 
 }
+
+
 
 .brand-image{
 width:80%;
