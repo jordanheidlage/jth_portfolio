@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jheidlage_react_portfolio/static/css/main.b733b744.css",
-    "main.js": "/jheidlage_react_portfolio/static/js/main.145fd0a5.js",
+    "main.js": "/jheidlage_react_portfolio/static/js/main.538f253f.js",
     "static/media/whatsfordinner.png": "/jheidlage_react_portfolio/static/media/whatsfordinner.1e98ef3bd9619cba9d25.png",
     "static/media/family.JPG": "/jheidlage_react_portfolio/static/media/family.ebf9c117e75ac6f37205.JPG",
     "static/media/portfolioPic.jpg": "/jheidlage_react_portfolio/static/media/portfolioPic.26e1714313515100e7f3.jpg",
@@ -23,10 +23,10 @@
     "static/media/sqlbadge.webp": "/jheidlage_react_portfolio/static/media/sqlbadge.2570495ce652d16d72f9.webp",
     "index.html": "/jheidlage_react_portfolio/index.html",
     "main.b733b744.css.map": "/jheidlage_react_portfolio/static/css/main.b733b744.css.map",
-    "main.145fd0a5.js.map": "/jheidlage_react_portfolio/static/js/main.145fd0a5.js.map"
+    "main.538f253f.js.map": "/jheidlage_react_portfolio/static/js/main.538f253f.js.map"
   },
   "entrypoints": [
     "static/css/main.b733b744.css",
-    "static/js/main.145fd0a5.js"
+    "static/js/main.538f253f.js"
   ]
 }
