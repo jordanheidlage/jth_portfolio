@@ -6,6 +6,16 @@ import Form from 'react-bootstrap/Form';
 // import { checkPassword, validateEmail } from '../utils/helpers'
 
 export default function Contact() {
+  // const [email, setEmail] = useState("");
+  // const [name, setName] = useState("");
+  // const [message, setMessage] = useState("");
+
+  // const handleInputChange = (e) => {
+  //   const {email, name, comment} = e.target;
+  //   return email ===
+
+  //   }
+  // }
   return (
     <Container fluid>
       <Row>

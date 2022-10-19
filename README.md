@@ -12,6 +12,8 @@
 
 This application was created to showcase skills developed through the Ohio State University coding bootcamp. This is the personal porfolio of Jordan Heidlage.
 
+Deployed Link:(https://jordanheidlage.github.io/jheidlage_react_portfolio/)
+
 ## Table of Contents
 
 * [Installation](##Installation)
