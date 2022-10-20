@@ -28,7 +28,7 @@ header {
 }
 
 footer {
-  margin: 0;
+  margin: 100;
   bottom: 0;
   font-family: "Raleway", serif !important;
   -webkit-font-smoothing: antialiased;
@@ -42,6 +42,20 @@ footer {
 @media (min-width:1281px) { /* hi-res laptops and desktops */ }
 }
 
+.nav-item{
+  height: 1000%;
+  margin: 15px  15px 15px  15px;
+  color: white;
+  font-size: 14px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: none;
+}
+
+.about-background{
+  background-image: url(../src/Assets/shootingStar.webp);
+  background-size: cover;
+  height: 300px;
+}
 
 
 .brand-image{
