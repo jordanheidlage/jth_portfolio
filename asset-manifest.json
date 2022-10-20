@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jheidlage_react_portfolio/static/css/main.68095a5f.css",
-    "main.js": "/jheidlage_react_portfolio/static/js/main.e43459ee.js",
+    "main.js": "/jheidlage_react_portfolio/static/js/main.151986ac.js",
     "static/media/whatsfordinner.png": "/jheidlage_react_portfolio/static/media/whatsfordinner.1e98ef3bd9619cba9d25.png",
     "static/media/ecommercebackend.png": "/jheidlage_react_portfolio/static/media/ecommercebackend.19a6c81eb7e7c5906e6b.png",
     "static/media/family.JPG": "/jheidlage_react_portfolio/static/media/family.ebf9c117e75ac6f37205.JPG",
@@ -14,21 +14,22 @@
     "static/media/writersblock.png": "/jheidlage_react_portfolio/static/media/writersblock.143cbd4beefde974ab8c.png",
     "static/media/shootingStar.webp": "/jheidlage_react_portfolio/static/media/shootingStar.6238ed884af9c42369c2.webp",
     "static/media/jate.png": "/jheidlage_react_portfolio/static/media/jate.ef53732a8cff086a58c3.png",
+    "static/media/GHIcon.png": "/jheidlage_react_portfolio/static/media/GHIcon.b17807d8139c878ad81f.png",
     "static/media/reactbadge.png": "/jheidlage_react_portfolio/static/media/reactbadge.3a41b18ce046a16c9d46.png",
     "static/media/bootstrapbadge.png": "/jheidlage_react_portfolio/static/media/bootstrapbadge.f132cb791703420e69ca.png",
-    "static/media/linkedin.png": "/jheidlage_react_portfolio/static/media/linkedin.47cac209af1b3ec1c28c.png",
     "static/media/oopBadge.jpeg": "/jheidlage_react_portfolio/static/media/oopBadge.0ea3c19d75f00ce9f9a4.jpeg",
-    "static/media/facebook.png": "/jheidlage_react_portfolio/static/media/facebook.6b04423575a602ebbda1.png",
     "static/media/continuous improvement.webp": "/jheidlage_react_portfolio/static/media/continuous improvement.410ed583186a49fb1718.webp",
     "static/media/gmail.png": "/jheidlage_react_portfolio/static/media/gmail.ec673c662063673a22ad.png",
+    "static/media/fbicon.png": "/jheidlage_react_portfolio/static/media/fbicon.fd8dd20088e5de897a65.png",
+    "static/media/linkedInIcon.png": "/jheidlage_react_portfolio/static/media/linkedInIcon.daf47e5dc787df1ec2fe.png",
     "static/media/expressbadge.png": "/jheidlage_react_portfolio/static/media/expressbadge.b44f5a4b0ab040328aac.png",
     "static/media/sqlbadge.webp": "/jheidlage_react_portfolio/static/media/sqlbadge.2570495ce652d16d72f9.webp",
     "index.html": "/jheidlage_react_portfolio/index.html",
     "main.68095a5f.css.map": "/jheidlage_react_portfolio/static/css/main.68095a5f.css.map",
-    "main.e43459ee.js.map": "/jheidlage_react_portfolio/static/js/main.e43459ee.js.map"
+    "main.151986ac.js.map": "/jheidlage_react_portfolio/static/js/main.151986ac.js.map"
   },
   "entrypoints": [
     "static/css/main.68095a5f.css",
-    "static/js/main.e43459ee.js"
+    "static/js/main.151986ac.js"
   ]
 }
