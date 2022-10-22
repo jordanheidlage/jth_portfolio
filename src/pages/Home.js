@@ -2,7 +2,6 @@ import liLogo from '../Assets/linkedInIcon.png'
 import ghLogo from '../Assets/GHIcon.png'
 import gmail from '../Assets/gmail.png'
 import facebook from '../Assets/fbicon.png'
-import ListGroup from 'react-bootstrap/ListGroup';
 
 
 
@@ -14,35 +13,25 @@ export default function Home() {
   return (
     <Container fluid>
       <Row className="about-background text-light">
-      <Col md={4}>
-              <h5>A demonstrated problem-solver, with a focus on continuous improvement. Listed are the languages, and tools that I'm proficient in. Please utilize the navigational tabs in the top right to explore my portfolio!</h5>
+        <Col md={6}>
+          Welcome to my portfolio, please utilize the navigational bar on the top right of the page to explore!
         </Col>
-        <Col md={4}>
-            <ul>
-              <h5>Languages:</h5>
-              <li>Javascript</li>
-              <li>CSS</li>
-              <li>HTML</li>
-              <li>Node.js</li>
-              <li>React.js</li>
-              <li>Bootstrap</li>
-              <li>SQL</li>
-              <li>MySQL</li>
-              <li>MongoDB</li>
-            </ul>
-        </Col>
-        <Col md={4}>
+        <Col md={6}>
           <ul>
-            <h5>Tools:</h5>
-            <li>Visual Studio</li>
-            <li>MySQL Workbench</li>
-            <li>Apollo GraphQL</li>
-            <li>MongoDB Compass</li>
-            <li>Microsoft Excel</li>
+            <li>Proficient in:</li>
+            <li>HTML5</li>
+            <li>CSS</li>
+            <li>Javascript</li>
+            <li>Node.js</li>
+            <li>React.js</li>
+            <li>SQL</li>
+            <li>MySQL</li>
+            <li>NoSQL(MongoDB)</li>
+            <li>CSS Frameworks (Bootstrap/Tailwind)</li>
           </ul>
         </Col>
       </Row>
-      <Row className="text-light m-2 text-center">
+      <Row className="text-light m-3 text-center">
         <Col md={3}>
           <a href="https://www.linkedin.com/in/jordan-heidlage-b31518a4/" target="_blank" rel="noopener noreferrer"><img src={liLogo} alt="LinkedIn" width="50"></img></a>
         </Col>

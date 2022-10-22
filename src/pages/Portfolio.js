@@ -74,9 +74,6 @@ export default function Portfolio() {
   return (
     <Container fluid>
       {projectArray.map((item)=>(
-      //   {
-      //   if (item.deploy === 'true')
-      // }
         <Row className='text-light m-2' >
         <Col md={6}>
           <div >
@@ -90,9 +87,9 @@ export default function Portfolio() {
             <Col md={2}>
               <Button variant="primary" href={item.deploy} size="sm" target='_blank'>Deploy</Button>
             </Col>
-            <Col md={2}>
+            {/* <Col md={2}>
               <Button variant="primary" href={item.walkthrough} size="sm" target='_blank'>Walkthrough</Button>
-            </Col>
+            </Col> */}
 
           </Row>
         </Col>
