@@ -24,7 +24,7 @@ export default function Portfolio() {
       title: 'Social Network API - MongoDB ',
       description: 'This application was created to utilize MongoDB database management, and Insomnia to test the correct functionality of API routes',
       repo: 'https://github.com/jordanheidlage/social_network_API_jheidlage',
-      // deploy: 'https://drive.google.com/file/d/1UaWeDR4srUhVB8_5MJwDURKwLGEqeQtO/view',
+      deploy: 'https://drive.google.com/file/d/1UaWeDR4srUhVB8_5MJwDURKwLGEqeQtO/view',
       walkthrough: 'https://drive.google.com/file/d/1UaWeDR4srUhVB8_5MJwDURKwLGEqeQtO/view',
       image: socialNetworkAPI
     },
@@ -40,7 +40,7 @@ export default function Portfolio() {
       title: 'Employee Tracker - SQL',
       description: "This application allows the user to utilize .js scripts to keep an active database of their associates in the terminal: roles, salaries, direct reports, and job Id's, with the functionality to add other fields",
       repo: 'https://github.com/jordanheidlage/employee_tracker_jh',
-      // deploy: 'https://drive.google.com/file/d/1eePGCbG-aBpfLd7_9j7RSmNv6kgUlBIz/view',
+      deploy: 'https://drive.google.com/file/d/1eePGCbG-aBpfLd7_9j7RSmNv6kgUlBIz/view',
       walkthrough: 'https://drive.google.com/file/d/1eePGCbG-aBpfLd7_9j7RSmNv6kgUlBIz/view',
       image: employeeTracker
     },
@@ -48,7 +48,7 @@ export default function Portfolio() {
       title: 'E-Commerce Backend (ORM)',
       description: 'This was created to create a backend for an e-commerce website that uses the latest technologies so that the company can compete with other e-commerce companies. This project utilizes MySQL, npm libraries, and insomnia to perform CRUD operations to the database.',
       repo: 'https://github.com/jordanheidlage/ecommerce_backend_jh',
-      // deploy: 'https://drive.google.com/file/d/1Pi5KlrGD_QrBSJYlYuZQiJpuh_gi5Zri/view',
+      deploy: 'https://drive.google.com/file/d/1Pi5KlrGD_QrBSJYlYuZQiJpuh_gi5Zri/view',
       walkthrough: 'https://drive.google.com/file/d/1Pi5KlrGD_QrBSJYlYuZQiJpuh_gi5Zri/view',
       image: ecommerce
     },
@@ -74,6 +74,9 @@ export default function Portfolio() {
   return (
     <Container fluid>
       {projectArray.map((item)=>(
+      //   {
+      //   if (item.deploy === 'true')
+      // }
         <Row className='text-light m-2' >
         <Col md={6}>
           <div >

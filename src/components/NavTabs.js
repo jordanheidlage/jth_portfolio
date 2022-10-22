@@ -64,7 +64,7 @@ function NavTabs({ currentPage, handlePageChange }) {
     // </ul>
     <Navbar  expand="lg">
       <Container>
-        <Navbar.Brand href="#home" className='text-white'>Jordan Thomas Heidlage</Navbar.Brand>
+        <Navbar.Brand href="#home" className='nav-name text-white'>Jordan Thomas Heidlage</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" className='text-white'/>
         <Navbar.Collapse id="basic-navbar-nav" className='justify-content-end '>
           <Nav >
