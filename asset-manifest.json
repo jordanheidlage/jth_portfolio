@@ -1,35 +1,27 @@
 {
   "files": {
-    "main.css": "/jheidlage_react_portfolio/static/css/main.68095a5f.css",
-    "main.js": "/jheidlage_react_portfolio/static/js/main.151986ac.js",
+    "main.css": "/jheidlage_react_portfolio/static/css/main.68f17cc2.css",
+    "main.js": "/jheidlage_react_portfolio/static/js/main.5186e22e.js",
     "static/media/whatsfordinner.png": "/jheidlage_react_portfolio/static/media/whatsfordinner.1e98ef3bd9619cba9d25.png",
     "static/media/ecommercebackend.png": "/jheidlage_react_portfolio/static/media/ecommercebackend.19a6c81eb7e7c5906e6b.png",
     "static/media/family.JPG": "/jheidlage_react_portfolio/static/media/family.ebf9c117e75ac6f37205.JPG",
     "static/media/portfolioPic.jpg": "/jheidlage_react_portfolio/static/media/portfolioPic.26e1714313515100e7f3.jpg",
     "static/media/socialnetwork.png": "/jheidlage_react_portfolio/static/media/socialnetwork.b42cc60645f1513b2b3d.png",
     "static/media/employeetracker.png": "/jheidlage_react_portfolio/static/media/employeetracker.2061324f55b388421c33.png",
-    "static/media/MVC3.png": "/jheidlage_react_portfolio/static/media/MVC3.a1c90e401837ce96d225.png",
-    "static/media/MERNbadge.png": "/jheidlage_react_portfolio/static/media/MERNbadge.39d4f78651cc4a93b96f.png",
     "static/media/weather.png": "/jheidlage_react_portfolio/static/media/weather.249417cc2278685b07ea.png",
     "static/media/writersblock.png": "/jheidlage_react_portfolio/static/media/writersblock.143cbd4beefde974ab8c.png",
     "static/media/shootingStar.webp": "/jheidlage_react_portfolio/static/media/shootingStar.6238ed884af9c42369c2.webp",
     "static/media/jate.png": "/jheidlage_react_portfolio/static/media/jate.ef53732a8cff086a58c3.png",
     "static/media/GHIcon.png": "/jheidlage_react_portfolio/static/media/GHIcon.b17807d8139c878ad81f.png",
-    "static/media/reactbadge.png": "/jheidlage_react_portfolio/static/media/reactbadge.3a41b18ce046a16c9d46.png",
-    "static/media/bootstrapbadge.png": "/jheidlage_react_portfolio/static/media/bootstrapbadge.f132cb791703420e69ca.png",
-    "static/media/oopBadge.jpeg": "/jheidlage_react_portfolio/static/media/oopBadge.0ea3c19d75f00ce9f9a4.jpeg",
-    "static/media/continuous improvement.webp": "/jheidlage_react_portfolio/static/media/continuous improvement.410ed583186a49fb1718.webp",
     "static/media/gmail.png": "/jheidlage_react_portfolio/static/media/gmail.ec673c662063673a22ad.png",
     "static/media/fbicon.png": "/jheidlage_react_portfolio/static/media/fbicon.fd8dd20088e5de897a65.png",
     "static/media/linkedInIcon.png": "/jheidlage_react_portfolio/static/media/linkedInIcon.daf47e5dc787df1ec2fe.png",
-    "static/media/expressbadge.png": "/jheidlage_react_portfolio/static/media/expressbadge.b44f5a4b0ab040328aac.png",
-    "static/media/sqlbadge.webp": "/jheidlage_react_portfolio/static/media/sqlbadge.2570495ce652d16d72f9.webp",
     "index.html": "/jheidlage_react_portfolio/index.html",
-    "main.68095a5f.css.map": "/jheidlage_react_portfolio/static/css/main.68095a5f.css.map",
-    "main.151986ac.js.map": "/jheidlage_react_portfolio/static/js/main.151986ac.js.map"
+    "main.68f17cc2.css.map": "/jheidlage_react_portfolio/static/css/main.68f17cc2.css.map",
+    "main.5186e22e.js.map": "/jheidlage_react_portfolio/static/js/main.5186e22e.js.map"
   },
   "entrypoints": [
-    "static/css/main.68095a5f.css",
-    "static/js/main.151986ac.js"
+    "static/css/main.68f17cc2.css",
+    "static/js/main.5186e22e.js"
   ]
 }
