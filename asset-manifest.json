@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jheidlage_react_portfolio/static/css/main.c3613e61.css",
-    "main.js": "/jheidlage_react_portfolio/static/js/main.b841d85b.js",
+    "main.js": "/jheidlage_react_portfolio/static/js/main.6d7e3a34.js",
     "static/media/whatsfordinner.png": "/jheidlage_react_portfolio/static/media/whatsfordinner.1e98ef3bd9619cba9d25.png",
     "static/media/ecommercebackend.png": "/jheidlage_react_portfolio/static/media/ecommercebackend.19a6c81eb7e7c5906e6b.png",
     "static/media/family.JPG": "/jheidlage_react_portfolio/static/media/family.ebf9c117e75ac6f37205.JPG",
@@ -18,10 +18,10 @@
     "static/media/linkedInIcon.png": "/jheidlage_react_portfolio/static/media/linkedInIcon.daf47e5dc787df1ec2fe.png",
     "index.html": "/jheidlage_react_portfolio/index.html",
     "main.c3613e61.css.map": "/jheidlage_react_portfolio/static/css/main.c3613e61.css.map",
-    "main.b841d85b.js.map": "/jheidlage_react_portfolio/static/js/main.b841d85b.js.map"
+    "main.6d7e3a34.js.map": "/jheidlage_react_portfolio/static/js/main.6d7e3a34.js.map"
   },
   "entrypoints": [
     "static/css/main.c3613e61.css",
-    "static/js/main.b841d85b.js"
+    "static/js/main.6d7e3a34.js"
   ]
 }
