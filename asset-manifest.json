@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/jheidlage_react_portfolio/static/css/main.c3613e61.css",
-    "main.js": "/jheidlage_react_portfolio/static/js/main.6d7e3a34.js",
-    "static/media/whatsfordinner.png": "/jheidlage_react_portfolio/static/media/whatsfordinner.1e98ef3bd9619cba9d25.png",
-    "static/media/ecommercebackend.png": "/jheidlage_react_portfolio/static/media/ecommercebackend.19a6c81eb7e7c5906e6b.png",
-    "static/media/family.JPG": "/jheidlage_react_portfolio/static/media/family.ebf9c117e75ac6f37205.JPG",
-    "static/media/portfolioPic.jpg": "/jheidlage_react_portfolio/static/media/portfolioPic.26e1714313515100e7f3.jpg",
-    "static/media/socialnetwork.png": "/jheidlage_react_portfolio/static/media/socialnetwork.b42cc60645f1513b2b3d.png",
-    "static/media/employeetracker.png": "/jheidlage_react_portfolio/static/media/employeetracker.2061324f55b388421c33.png",
-    "static/media/weather.png": "/jheidlage_react_portfolio/static/media/weather.249417cc2278685b07ea.png",
-    "static/media/writersblock.png": "/jheidlage_react_portfolio/static/media/writersblock.143cbd4beefde974ab8c.png",
-    "static/media/shootingStar.webp": "/jheidlage_react_portfolio/static/media/shootingStar.6238ed884af9c42369c2.webp",
-    "static/media/jate.png": "/jheidlage_react_portfolio/static/media/jate.ef53732a8cff086a58c3.png",
-    "static/media/GHIcon.png": "/jheidlage_react_portfolio/static/media/GHIcon.b17807d8139c878ad81f.png",
-    "static/media/gmail.png": "/jheidlage_react_portfolio/static/media/gmail.ec673c662063673a22ad.png",
-    "static/media/fbicon.png": "/jheidlage_react_portfolio/static/media/fbicon.fd8dd20088e5de897a65.png",
-    "static/media/linkedInIcon.png": "/jheidlage_react_portfolio/static/media/linkedInIcon.daf47e5dc787df1ec2fe.png",
-    "index.html": "/jheidlage_react_portfolio/index.html",
-    "main.c3613e61.css.map": "/jheidlage_react_portfolio/static/css/main.c3613e61.css.map",
-    "main.6d7e3a34.js.map": "/jheidlage_react_portfolio/static/js/main.6d7e3a34.js.map"
+    "main.css": "/jordanheidlage/jth_portfolio/static/css/main.f2b6400e.css",
+    "main.js": "/jordanheidlage/jth_portfolio/static/js/main.54bf9e06.js",
+    "static/media/whatsfordinner.png": "/jordanheidlage/jth_portfolio/static/media/whatsfordinner.1e98ef3bd9619cba9d25.png",
+    "static/media/ecommercebackend.png": "/jordanheidlage/jth_portfolio/static/media/ecommercebackend.19a6c81eb7e7c5906e6b.png",
+    "static/media/family.JPG": "/jordanheidlage/jth_portfolio/static/media/family.ebf9c117e75ac6f37205.JPG",
+    "static/media/portfolioPic.jpg": "/jordanheidlage/jth_portfolio/static/media/portfolioPic.26e1714313515100e7f3.jpg",
+    "static/media/socialnetwork.png": "/jordanheidlage/jth_portfolio/static/media/socialnetwork.b42cc60645f1513b2b3d.png",
+    "static/media/employeetracker.png": "/jordanheidlage/jth_portfolio/static/media/employeetracker.2061324f55b388421c33.png",
+    "static/media/weather.png": "/jordanheidlage/jth_portfolio/static/media/weather.249417cc2278685b07ea.png",
+    "static/media/writersblock.png": "/jordanheidlage/jth_portfolio/static/media/writersblock.143cbd4beefde974ab8c.png",
+    "static/media/shootingStar.webp": "/jordanheidlage/jth_portfolio/static/media/shootingStar.6238ed884af9c42369c2.webp",
+    "static/media/jate.png": "/jordanheidlage/jth_portfolio/static/media/jate.ef53732a8cff086a58c3.png",
+    "static/media/GHIcon.png": "/jordanheidlage/jth_portfolio/static/media/GHIcon.b17807d8139c878ad81f.png",
+    "static/media/gmail.png": "/jordanheidlage/jth_portfolio/static/media/gmail.ec673c662063673a22ad.png",
+    "static/media/fbicon.png": "/jordanheidlage/jth_portfolio/static/media/fbicon.fd8dd20088e5de897a65.png",
+    "static/media/linkedInIcon.png": "/jordanheidlage/jth_portfolio/static/media/linkedInIcon.daf47e5dc787df1ec2fe.png",
+    "index.html": "/jordanheidlage/jth_portfolio/index.html",
+    "main.f2b6400e.css.map": "/jordanheidlage/jth_portfolio/static/css/main.f2b6400e.css.map",
+    "main.54bf9e06.js.map": "/jordanheidlage/jth_portfolio/static/js/main.54bf9e06.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3613e61.css",
-    "static/js/main.6d7e3a34.js"
+    "static/css/main.f2b6400e.css",
+    "static/js/main.54bf9e06.js"
   ]
 }
