@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jth_portfolio/static/css/main.eca1b98b.css",
-    "main.js": "/jth_portfolio/static/js/main.aef7d3f8.js",
+    "main.js": "/jth_portfolio/static/js/main.46850412.js",
     "static/media/whatsfordinner.png": "/jth_portfolio/static/media/whatsfordinner.1e98ef3bd9619cba9d25.png",
     "static/media/ecommercebackend.png": "/jth_portfolio/static/media/ecommercebackend.19a6c81eb7e7c5906e6b.png",
     "static/media/family.JPG": "/jth_portfolio/static/media/family.ebf9c117e75ac6f37205.JPG",
@@ -18,10 +18,10 @@
     "static/media/linkedInIcon.png": "/jth_portfolio/static/media/linkedInIcon.daf47e5dc787df1ec2fe.png",
     "index.html": "/jth_portfolio/index.html",
     "main.eca1b98b.css.map": "/jth_portfolio/static/css/main.eca1b98b.css.map",
-    "main.aef7d3f8.js.map": "/jth_portfolio/static/js/main.aef7d3f8.js.map"
+    "main.46850412.js.map": "/jth_portfolio/static/js/main.46850412.js.map"
   },
   "entrypoints": [
     "static/css/main.eca1b98b.css",
-    "static/js/main.aef7d3f8.js"
+    "static/js/main.46850412.js"
   ]
 }
