@@ -1,6 +1,6 @@
 
 # Jordan Heidlage React Portolio (https://github.com/jordanheidlage/jheidlage_react_portfolio)
-    
+
   ![Most recent commit](https://img.shields.io/github/last-commit/jordanheidlage/jheidlage_react_portfolio)
   ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/jordanheidlage/jheidlage_react_portfolio)
 
@@ -13,6 +13,7 @@
 This application was created to showcase skills developed through the Ohio State University coding bootcamp. This is the personal porfolio of Jordan Heidlage.
 
 Deployed Link:(https://jordanheidlage.github.io/jheidlage_react_portfolio/)
+Heroku: (https://jth-portfolio.herokuapp.com/)
 
 ## Table of Contents
 
@@ -29,13 +30,22 @@ Intialize the npm package;
 npm install
 ```  
 
+Additionally, utilize the deployed links above to access
+
 
 ## Usage
 
- To utilize the application locally, Run the following command:  
-```script
-npm start
-```  
+- You'll arrive at a home page with a NavBar in the top right to explore my page ![About](../jheidlage_react_portfolio/assets/homePage.png)
+- Utilize the buttons in the bottom ![hyperlinks](../jheidlage_react_portfolio/assets/links.png) to display my:
+  - LinkedIn
+  - Github
+  - Facebook
+  - Email me (@jheidlage6@gmail.com)
+
+- Utilize the top right Navbar to access my:
+  - About me
+  - Download a .pdf of my portfolio
+  - 
 
 #### Screenshot
 

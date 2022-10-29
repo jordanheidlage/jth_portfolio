@@ -38,12 +38,12 @@ function NavTabs({ currentPage, handlePageChange }) {
               // Check to see if the currentPage is `Resume`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
               className={currentPage === 'Resume' ? 'nav-link active text-white fw-bold' : 'nav-link text-white'}
             >Resume</Nav.Link>
-            {/* <Nav.Link
+            <Nav.Link
               href="#contact"
               onClick={() => handlePageChange('Contact')}
               // Check to see if the currentPage is `Contact`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
               className={currentPage === 'Contact' ? 'nav-link active text-white fw-bold ' : 'nav-link text-white'}
-            >Contact</Nav.Link> */}
+            >Contact</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
