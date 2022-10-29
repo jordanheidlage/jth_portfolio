@@ -12,8 +12,11 @@
 
 This application was created to showcase skills developed through the Ohio State University coding bootcamp. This is the personal porfolio of Jordan Heidlage.
 
-Deployed Link:(https://jordanheidlage.github.io/jheidlage_react_portfolio/)
-Heroku: (https://jth-portfolio.herokuapp.com/)
+- Desktop View ![Home Preview](./assets/homePage.png)
+- Mobile View ![Mobile Preview](./assets/mobile.jpg)
+
+- Github Deploy:(https://jordanheidlage.github.io/jth_portfolio/)
+- Heroku Deploy: (https://jth-portfolio.herokuapp.com/)
 
 ## Table of Contents
 
@@ -24,13 +27,12 @@ Heroku: (https://jth-portfolio.herokuapp.com/)
   
 ## Installation
 
-To initialize the application, you will need to download the required libraries from the terminal.
-Intialize the npm package;  
+- To initialize the application locally, you will need to download the required libraries from the terminal.
+- Intialize the npm package;  
 ```script
 npm install
 ```  
 
-Additionally, utilize the deployed links above to access
 
 
 ## Usage
@@ -43,14 +45,9 @@ Additionally, utilize the deployed links above to access
   - Email me (@jheidlage6@gmail.com)
 
 - Utilize the top right Navbar to access my:
-  - About me
+  - About me ![About](./assets/about.png)
   - Download a .pdf of my portfolio
-  - 
-
-#### Screenshot
-
-![Preview](../jheidlage_react_portfolio/src/Assets/aboutme.png)
-
+  - View my Portfolio ![Projects](./assets/projects.png)
 
 
 ## Questions  
