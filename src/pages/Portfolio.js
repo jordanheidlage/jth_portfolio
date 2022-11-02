@@ -9,16 +9,41 @@ import employeeTracker from '../Assets/employeetracker.png'
 import ecommerce from '../Assets/ecommercebackend.png'
 import jate from '../Assets/jate.png'
 import weather from '../Assets/weather.png'
+import explorar from '../Assets/explorar.png'
+import notetaker from '../Assets/noteTaker.png'
+import teamgenerator from '../Assets/teamProfileGenerator.png'
+
 
 export default function Portfolio() {
 
   const projectArray = [
+    {
+      title: 'Explorar',
+      description: "This application utilizes the full MERN stack to allow users to create an account, sign in, and save travel preferences for up to 6 different countries",
+      repo: 'https://github.com/jordanheidlage/Explorar',
+      deploy: 'https://explorar-project3.herokuapp.com/',
+      image: explorar
+    },
     {
       title: 'Whats for dinner',
       description: "This application was created to generate a random food and a random cocktail from two different API's",
       repo: 'https://github.com/jordanheidlage/whatsForDinner',
       deploy: 'https://jordanheidlage.github.io/whatsForDinner/',
       image: whatsForDinner
+    },
+    {
+      title: 'Note Taker',
+      description: "This application allows the user to take notes, and save them as persistent data to be reviewed later",
+      repo: 'https://github.com/jordanheidlage/note_taker_jth',
+      deploy: 'https://note-takerjh.herokuapp.com/',
+      image: notetaker
+    },
+    {
+      title: 'Team Profile Generator',
+      description: "This application allows the user to take notes, and save them as persistent data to be reviewed later",
+      repo: 'https://github.com/jordanheidlage/team_profile_generator',
+      deploy: 'https://drive.google.com/file/d/1PM25f7arPMmFbAC2dWtiPoQN4OEoV4hO/view?usp=sharing',
+      image: teamgenerator
     },
     {
       title: 'Social Network API - MongoDB ',
@@ -57,15 +82,13 @@ export default function Portfolio() {
       description: 'This application allows the user to edit tezt in a browser based js text editor to demonstrate Progressive Web Application functionality ',
       repo: 'https://github.com/jordanheidlage/jth_text_editor',
       deploy: 'https://jth-jate.herokuapp.com/',
-      walkthrough: '',
       image: jate
     },
     {
       title: 'Weather Dashboard',
       description: 'This application uses the OpenWeather One Call API to retrieve weather data for cities, and display the current weather, as well as temperature, wind speed, humidity, and the UV index. This application also uses localStorage to store previously searched cities. Additionally, it provides a five day forecast of the same city below containing the temperature, wind, and humidity.',
       repo: 'https://github.com/jordanheidlage/sixth-homework',
-      deploy: 'github.com/jordanheidlage/sixth-homework/edit/main/README.md',
-      walkthrough: '',
+      deploy: 'https://jordanheidlage.github.io/weather_dashboard_jth/',
       image: weather
 
     }
@@ -81,11 +104,11 @@ export default function Portfolio() {
             <p>{item.description}</p>
           </div>
           <Row >
-            <Col md={2}>
-              <Button variant="primary" href={item.repo} size="sm" target='_blank'>Repository</Button>
+            <Col md={3}>
+              <Button variant="secondary" href={item.repo} size="lg" target='_blank'>Repository</Button>
             </Col>
             <Col md={2}>
-              <Button variant="primary" href={item.deploy} size="sm" target='_blank'>Deploy</Button>
+              <Button variant="secondary" href={item.deploy} size="lg" target='_blank'>Deploy</Button>
             </Col>
             {/* <Col md={2}>
               <Button variant="primary" href={item.walkthrough} size="sm" target='_blank'>Walkthrough</Button>
