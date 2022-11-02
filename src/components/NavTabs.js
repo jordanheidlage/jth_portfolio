@@ -33,7 +33,7 @@ function NavTabs({ currentPage, handlePageChange }) {
               className={currentPage === 'Portfolio' ? 'nav-link active text-white fw-bold' : 'nav-link text-white'}
             >Portfolio</Nav.Link>
             <Nav.Link
-              href={process.env.PUBLIC_URL + "/resume.pdf"}
+              href={process.env.PUBLIC_URL + "/jheidlageResume.pdf"}
               download
               // Check to see if the currentPage is `Resume`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
               className={currentPage === 'Resume' ? 'nav-link active text-white fw-bold' : 'nav-link text-white'}
