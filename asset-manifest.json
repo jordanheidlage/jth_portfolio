@@ -1,15 +1,18 @@
 {
   "files": {
     "main.css": "/jth_portfolio/static/css/main.eca1b98b.css",
-    "main.js": "/jth_portfolio/static/js/main.13ff298a.js",
+    "main.js": "/jth_portfolio/static/js/main.6520d50d.js",
     "static/media/whatsfordinner.png": "/jth_portfolio/static/media/whatsfordinner.1e98ef3bd9619cba9d25.png",
+    "static/media/explorar.png": "/jth_portfolio/static/media/explorar.d431dd4130d36d5866e4.png",
     "static/media/ecommercebackend.png": "/jth_portfolio/static/media/ecommercebackend.19a6c81eb7e7c5906e6b.png",
     "static/media/family.JPG": "/jth_portfolio/static/media/family.ebf9c117e75ac6f37205.JPG",
     "static/media/portfolioPic.jpg": "/jth_portfolio/static/media/portfolioPic.26e1714313515100e7f3.jpg",
     "static/media/socialnetwork.png": "/jth_portfolio/static/media/socialnetwork.b42cc60645f1513b2b3d.png",
     "static/media/employeetracker.png": "/jth_portfolio/static/media/employeetracker.2061324f55b388421c33.png",
     "static/media/weather.png": "/jth_portfolio/static/media/weather.249417cc2278685b07ea.png",
+    "static/media/noteTaker.png": "/jth_portfolio/static/media/noteTaker.266d8e6e577cc5230281.png",
     "static/media/writersblock.png": "/jth_portfolio/static/media/writersblock.143cbd4beefde974ab8c.png",
+    "static/media/teamProfileGenerator.png": "/jth_portfolio/static/media/teamProfileGenerator.e9285ab7a108e7bb6019.png",
     "static/media/shootingStar.webp": "/jth_portfolio/static/media/shootingStar.6238ed884af9c42369c2.webp",
     "static/media/jate.png": "/jth_portfolio/static/media/jate.ef53732a8cff086a58c3.png",
     "static/media/GHIcon.png": "/jth_portfolio/static/media/GHIcon.b17807d8139c878ad81f.png",
@@ -18,10 +21,10 @@
     "static/media/linkedInIcon.png": "/jth_portfolio/static/media/linkedInIcon.daf47e5dc787df1ec2fe.png",
     "index.html": "/jth_portfolio/index.html",
     "main.eca1b98b.css.map": "/jth_portfolio/static/css/main.eca1b98b.css.map",
-    "main.13ff298a.js.map": "/jth_portfolio/static/js/main.13ff298a.js.map"
+    "main.6520d50d.js.map": "/jth_portfolio/static/js/main.6520d50d.js.map"
   },
   "entrypoints": [
     "static/css/main.eca1b98b.css",
-    "static/js/main.13ff298a.js"
+    "static/js/main.6520d50d.js"
   ]
 }
